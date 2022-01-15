@@ -22,7 +22,7 @@ router.get('/:id', (req, res) => {
   try {
     const tagData = await Tag.findOne({
       where: { id: req.params.id },
-      include: { model: Product },
+      include: [{ model: Product }],
     });
     res.status(200).json(tagData);
   } catch (err) {
