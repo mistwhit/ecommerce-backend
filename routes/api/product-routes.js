@@ -100,7 +100,7 @@ router.put('/:id', (req, res) => {
     });
 });
 
-// TODO: Deletes One Product by ID
+// Deletes One Product by ID
 router.delete('/:id', async (req, res) => {
   try {
     const productData = await Product.destroy({
@@ -108,7 +108,7 @@ router.delete('/:id', async (req, res) => {
         id: req.params.id,
       },
     });
-    res.status(200).json(productData);
+    res.status(200).json('Product deleted successfully!');
   } catch (err) {
     res.status(500).json;
   }
