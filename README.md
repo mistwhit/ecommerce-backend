@@ -5,7 +5,6 @@ This application was an opportunity for me to explore setting up a very simple, 
 
 [![E-Commerce Back End Walk Through](https://res.cloudinary.com/marcomontalbano/image/upload/v1642381169/video_to_markdown/images/vimeo--666592191-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/666592191 "E-Commerce Back End Walk Through")
 
-
 ## User Story
 ```md
 AS A manager at an internet retail company
