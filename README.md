@@ -1,11 +1,10 @@
 # E-Commerce Back End
 
-[Demonstration Video](https://)
-
-![Demonstration Gif](.gif)
-
 ## Description
-This application was an opportunity for me to explore setting up a very simple, hypothetical back-end for an e-commerce platform. This application was created using Express.js API routes and a MySQL database. 
+This application was an opportunity for me to explore setting up a very simple, hypothetical back-end for an e-commerce platform. This application was created using Express.js API routes and a MySQL database, and I tested my routes using Insomnia.
+
+[![E-Commerce Back End Walk Through](https://res.cloudinary.com/marcomontalbano/image/upload/v1642381169/video_to_markdown/images/vimeo--666592191-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/666592191 "E-Commerce Back End Walk Through")
+
 
 ## User Story
 ```md
